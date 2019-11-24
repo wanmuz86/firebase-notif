@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "790969676632",
+    "firebase_url": "https://messaging-demo-a3ef8.firebaseio.com",
+    "project_id": "messaging-demo-a3ef8",
+    "storage_bucket": "messaging-demo-a3ef8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790969676632:android:66137f5943f79edb1aeb2d",
+        "android_client_info": {
+          "package_name": "com.itrainasia.firebasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790969676632-ibnsi29d7b47vb4ot5g0d989g8o5n8me.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdvYPrtHXkZa4sC1qbRT52RNd3MqbQPFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790969676632-ibnsi29d7b47vb4ot5g0d989g8o5n8me.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
